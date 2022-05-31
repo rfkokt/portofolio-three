@@ -1,0 +1,11 @@
+Model Information:
+* title:	IBM 3178
+* source:	https://sketchfab.com/3d-models/ibm-3178-891ae8149d8547a5971381237d13e2e6
+* author:	maxdragonn (https://sketchfab.com/maxdragon)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "IBM 3178" (https://sketchfab.com/3d-models/ibm-3178-891ae8149d8547a5971381237d13e2e6) by maxdragonn (https://sketchfab.com/maxdragon) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
